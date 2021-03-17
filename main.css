@@ -1,0 +1,42 @@
+
+body{
+    background: #fcffb3;
+}
+
+.first {
+    display: flex;
+
+
+}
+
+h1 {
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+
+.image {
+height: 300px;
+margin: 10px;
+}
+
+.Gina {
+    border: blue solid 5px;
+    background: greenyellow;
+    height: 250px;
+    margin: 10px;
+}
+
+.list {
+    border: bisque solid 1px;
+    background: burlywood;
+    width: 200px;
+}
+
+.career{
+    border: aquamarine solid 10px;
+margin: 10px;
+padding: 10px;
+}
